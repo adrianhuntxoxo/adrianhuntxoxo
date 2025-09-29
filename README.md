@@ -1,7 +1,5 @@
-<!-- README.md -->
 <p align="center">
-  <!-- Full-width pink banner -->
-  <img src="./assets/header.svg" alt="pink animated banner" />
+  <img src="https://raw.githubusercontent.com/adrianhuntxoxo/adrianhuntxoxo/main/assets/header.svg" alt="pink animated banner" />
 </p>
 
 <!-- Optional cute illustration underneath (upload your PNG to assets and uncomment) -->

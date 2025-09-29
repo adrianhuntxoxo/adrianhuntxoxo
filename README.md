@@ -1,5 +1,7 @@
+<!-- README.md -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adrianhuntxoxo/adrianhuntxoxo/main/assets/header.svg" alt="pink animated banner" />
+  <!-- Full-width pink banner -->
+  <img src="assets/header.svg" alt="Pink banner" />
 </p>
 
 <!-- Optional cute illustration underneath (upload your PNG to assets and uncomment) -->
@@ -10,7 +12,7 @@
 <h2 align="center">🌸 About Me</h2>
 
 <p align="center">
-  <em>Integrations & automations</em> ✨<br/>
+  <em>Integrations & automation, but make it adorable.</em> ✨<br/>
   <em>Dallas • APIs • Docs • Customer love</em> 💖
 </p>
 
@@ -27,3 +29,4 @@
 <p align="center">
   <sub>🌷 Thanks for visiting! 🌷</sub>
 </p>
+

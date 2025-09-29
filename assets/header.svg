@@ -1,26 +1,21 @@
-<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pink banner">
-  <!-- Soft pink background -->
-  <rect width="1200" height="260" fill="#ffd1dc"/>
-  <!-- Subtle hearts confetti -->
-  <g opacity="0.25">
-    <circle cx="90" cy="60" r="6" fill="#ff9fba"/>
-    <circle cx="210" cy="190" r="5" fill="#ff9fba"/>
-    <circle cx="360" cy="120" r="7" fill="#ff9fba"/>
-    <circle cx="540" cy="70" r="6" fill="#ff9fba"/>
-    <circle cx="720" cy="200" r="5" fill="#ff9fba"/>
-    <circle cx="930" cy="110" r="7" fill="#ff9fba"/>
-    <circle cx="1080" cy="160" r="6" fill="#ff9fba"/>
-  </g>
-
-  <!-- Title -->
-  <text x="50%" y="48%" text-anchor="middle"
-        style="font: 700 44px 'Comic Sans MS', 'Trebuchet MS', system-ui, -apple-system, Segoe UI, 'Segoe UI Emoji', cursive; fill:#ff4f86;">
-    ✨ Hi, I’m Adrian ✨
+<svg width="1200" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated pink banner">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#ffd1dc">
+        <animate attributeName="stop-color" values="#ffd1dc; #ffb6c1; #ffd1dc" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#ff9fba">
+        <animate attributeName="stop-color" values="#ff9fba; #ff6fa3; #ff9fba" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="240" fill="url(#g1)"/>
+  <text x="50%" y="55%" text-anchor="middle"
+        style="font: 700 44px 'Trebuchet MS', system-ui, sans-serif; fill:#7a3b54;">
+    ✨ Adrian Hunt ✨
   </text>
-
-  <!-- Tagline -->
-  <text x="50%" y="68%" text-anchor="middle"
-        style="font: 500 22px 'Comic Sans MS', 'Trebuchet MS', system-ui, -apple-system, Segoe UI, 'Segoe UI Emoji', cursive; fill:#8b2c4f;">
-    just building integrations and learning new things🌸
+  <text x="50%" y="75%" text-anchor="middle"
+        style="font: 500 18px system-ui, sans-serif; fill:#7a3b54; opacity:.9">
+    integrations & automation — but make it adorable 🌸
   </text>
 </svg>

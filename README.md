@@ -12,7 +12,7 @@
 <h2 align="center">🌸 About Me</h2>
 
 <p align="center">
-  <em>Integrations & automation, but make it adorable.</em> ✨<br/>
+  <em>Integrations & automations</em> ✨<br/>
   <em>Dallas • APIs • Docs • Customer love</em> 💖
 </p>
 
@@ -24,11 +24,6 @@
   <img src="https://img.shields.io/badge/JavaScript-%23ffb6c1?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-%23ff9fba?style=for-the-badge&logo=amazon-aws&logoColor=black" />
   <img src="https://img.shields.io/badge/REST%20APIs-%23ffc9d9?style=for-the-badge" />
-</p>
-
-### 🐰 Stats (optional)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&title_color=ff4f86&icon_color=ff9fba" />
 </p>
 
 <p align="center">

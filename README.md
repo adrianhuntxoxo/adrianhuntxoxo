@@ -12,7 +12,7 @@
 <h2 align="center">🌸 About Me</h2>
 
 <p align="center">
-  <em>Integrations & automation, but make it adorable.</em> ✨<br/>
+  <em>Integrations & automation</em> ✨<br/>
   <em>Dallas • APIs • Docs • Customer love</em> 💖
 </p>
 

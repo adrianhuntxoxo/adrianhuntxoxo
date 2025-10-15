@@ -1,15 +1,14 @@
 <!-- README.md -->
-<p align="center">
+  <!--<p align="center"> -->
   <!-- Full-width pink banner -->
-  <img src="assets/header.svg" alt="Pink banner" />
-</p>
+    <!--<img src="assets/header.svg" alt="Pink banner" /></p> -->
 
 <!-- Optional cute illustration underneath (upload your PNG to assets and uncomment) -->
 <!-- <p align="center">
   <img src="assets/girl.png" alt="cute girl illustration" width="160">
 </p> -->
 
-<h2 align="center">🌸 About Me</h2>
+<!--<h2 align="center">🌸 About Me</h2>
 
 <p align="center">
   <em>Integrations & automation</em> ✨<br/>
@@ -30,3 +29,4 @@
   <sub>🌷 Thanks for visiting! 🌷</sub>
 </p>
 
+-->
